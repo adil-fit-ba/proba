@@ -1,4 +1,8 @@
 ok 
 ok opet
 Danas je 27.10.2022
+<<<<<<< HEAD
 ocjena 4
+=======
+ocjena 5
+>>>>>>> f2e2dd70fe487bb6f6c298f0d20cebb15e79cb9a
